@@ -197,17 +197,6 @@ This dataset can be used for:
 
 5. **Regional Comparisons**: Comparing with similar datasets from other countries to identify regional preferences.
 
-## Software and Hardware Used
-
-- **Programming Language**: Python 3.9
-- **Main Libraries**: 
-  - spotipy (for Spotify API access)
-  - pandas (for data manipulation)
-  - requests (for songdata.io access)
-- **Development Environment**: Visual Studio Code
-- **Hardware**: Laptop with i5 processor, 16GB RAM
-- **Total Collection Time**: Approximately 4 hours (including API rate limits)
-
 ## References
 
 1. Spotify API: https://developer.spotify.com/documentation/web-api
